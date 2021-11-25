@@ -1,0 +1,22 @@
+#imagen{
+    display: block;
+    position:absolute; 
+    top:36px; 
+    left:240px; 
+    width: 100px;
+    height:100px;
+    visibility:visible;   
+}
+
+h1{
+	position:static;
+	float:center;
+	top:30px;
+	left:30px;
+	width:200px;
+	height:60px;
+	font-family: 'Noto';
+	font-size:50px;
+	text-align:right;
+	line-height:60px;
+}
